@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <>
-      <nav className=" sticky z-10  top-0 flex justify-between items-center px-10 py-3">
+      <nav className=" sticky z-10 top-0 flex justify-between items-center px-10 py-3">
         <div className="Logo leading-none tracking-tight">
           <h1 className="text-xl">
             Khiza
