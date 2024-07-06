@@ -9,9 +9,7 @@ const Navbar = () => {
   const toggleMenu = () => {
     setToggle(!toggle);
   };
-   
-
-
+  
 
   const Links = ["Home", "About Me", "Projects"];
 
